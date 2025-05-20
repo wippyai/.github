@@ -13,9 +13,9 @@
 [![Website](https://img.shields.io/badge/-Website-8960ff?style=for-the-badge&logo=linkedin)](https://wippy.ai)
 [![Wippyai on LinkedIn](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/company/wippyai)
 
-[//]: # ([![@wippyai on X]&#40;https://img.shields.io/badge/-twitter-black?style=for-the-badge&#41;]&#40;https://x.com/wippyai&#41;)
+[//]: # ([![Documentation]&#40;https://img.shields.io/badge/-Documentation-2a2a2a?style=for-the-badge&#41;][documentation])
 
-[//]: # (TODO : docs)
+[//]: # ([![@wippyai on X]&#40;https://img.shields.io/badge/-twitter-black?style=for-the-badge&#41;]&#40;https://x.com/wippyai&#41;)
 
 </div>
 
