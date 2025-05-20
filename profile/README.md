@@ -21,3 +21,26 @@
 
 ---
 
+# Welcome to Wippy Organization
+
+**Wippy** is a cutting-edge runtime platform designed to simplify AI development, system integration, and application optimization. Our mission is to empower developers with tools and frameworks to build intelligent, scalable, and efficient systems.
+
+---
+
+## About Wippy
+
+Wippy provides a comprehensive suite of tools for:
+- **AI Agent Development**: Create intelligent agents with advanced capabilities.
+- **Tree-sitter Integration**: Parse and manipulate syntax trees with ease.
+- **System and Process Management**: Build scalable, event-driven architectures.
+- **Web and Cloud Integration**: Seamlessly handle HTTP, WebSocket, and cloud operations.
+- **Security and Access Control**: Implement robust authentication and authorization.
+
+---
+
+## Stay Tuned!
+
+We’re working hard to make our repositories public soon.
+Follow us to stay updated as we release our projects, documentation, and tools for the developer community.
+
+[documentation]: https://github.com/wippyai/docs
