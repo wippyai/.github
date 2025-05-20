@@ -19,13 +19,9 @@
 
 </div>
 
----
-
 # Welcome to Wippy Organization
 
 **Wippy** is a cutting-edge runtime platform designed to simplify AI development, system integration, and application optimization. Our mission is to empower developers with tools and frameworks to build intelligent, scalable, and efficient systems.
-
----
 
 ## About Wippy
 
@@ -35,8 +31,6 @@ Wippy provides a comprehensive suite of tools for:
 - **System and Process Management**: Build scalable, event-driven architectures.
 - **Web and Cloud Integration**: Seamlessly handle HTTP, WebSocket, and cloud operations.
 - **Security and Access Control**: Implement robust authentication and authorization.
-
----
 
 ## Stay Tuned!
 
