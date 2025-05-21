@@ -4,3 +4,5 @@
 # Global, default code owners for the entire repository.
 # Responsible for reviewing any code changes that do not have a more specific owner.
 *               @wippyai/github
+
+profile/        @wippyai/documentation
