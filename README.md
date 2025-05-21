@@ -6,7 +6,9 @@
         </picture>
     </a>
 </p>
-<h1 align="center">.github</h1>
+
+<br/>
+<br/>
 
 This repository contains organization-wide GitHub configuration files and templates.
 These files help standardize workflows, issue templates, pull request templates, and other GitHub-specific settings across all repositories in our organization.
